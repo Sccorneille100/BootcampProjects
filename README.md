@@ -41,7 +41,7 @@ THEN I find a concise, descriptive title
 ## Website
 
 ## Screenshots
-[Screenshots](./image/United.png)
+[Screenshots](./assets/images/Untitled.png)
 
 ## license
 The MIT License
